@@ -20,3 +20,4 @@ if (existsSync(join(repoDir, 'screenshots'))) {
 }
 const dossierBytes = buildDossier(outputDir, caps);
 writeFileSync(join(outputDir, 'dossier.json'), dossierBytes);
+console.log(`Leonida Playbook dossier ready: ${join(outputDir, 'dossier.json')}`);
