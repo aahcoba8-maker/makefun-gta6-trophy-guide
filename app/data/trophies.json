@@ -1,392 +1,99 @@
 {
- "game": "Grand Theft Auto VI",
- "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
- "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
-  },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
- ]
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "sources": [
+    {
+      "name": "PlayStation trophy list via Exophase",
+      "url": "https://www.exophase.com",
+      "usedFor": "Official names, descriptions, grades and counts; checked 18 Nov 2026. PSNProfiles lists the same records and agrees on all names, descriptions and grades."
+    },
+    {
+      "name": "PowerPyx — GTA 6 Trophy Guide & Roadmap",
+      "url": "https://www.powerpyx.com",
+      "usedFor": "Roadmap order, 4/10 difficulty, about 200 hours, one-playthrough plan, saves, cheats and the single missable warning."
+    },
+    {
+      "name": "PowerPyx — GTA 6 100% Completion Checklist",
+      "url": "https://www.powerpyx.com",
+      "usedFor": "What the in-game 100% checklist requires."
+    },
+    {
+      "name": "GTABase — GTA 6 Trophies Guide",
+      "url": "https://www.gtabbase.com",
+      "usedFor": "Cross-check for the one truly missable trophy."
+    },
+    {
+      "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+      "url": "https://www.keengamer.com",
+      "usedFor": "Roadmap cross-check."
+    },
+    {
+      "name": "TechWiser — GTA 6 trophy list",
+      "url": "https://www.techwiser.com",
+      "usedFor": "Stranger chains can have windows tied to story progress."
+    },
+    {
+      "name": "GTA Zone",
+      "url": "https://www.gta.zone",
+      "usedFor": "Meditation spots count once for each character who meditates there."
+    }
+  ],
+  "trophies": [
+    {"id":1,"name":"Vice Got a Price!","description":"Congratulations! You're a Leonida Legend.","grade":"platinum","guide":"Earn every other trophy on this list; the platinum arrives with the final one. One playthrough is enough, but there is no mission replay or New Game+, so preserve chapter-start saves and an untouched save before the final mission. Roadmap stage 7 — 100% and the platinum.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Check the in-game completion list, then claim the final trophy."],"kind":"platinum","hidden":false,"stage":7,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":2,"name":"Just Like Paradise","description":"Complete Gone Fishing.","grade":"bronze","guide":"This story trophy is hidden on PlayStation, but it is unmissable if you keep playing through the named mission or chapter. Keep a manual save at each chapter start because missions cannot be replayed and there is no New Game+; leave cheats off on the trophy save. Roadmap stage 1 — Chapter 1 and the one missable.","steps":["Keep a manual save at the start of Chapter 1.","Play the story mission named in the official description.","Leave cheats off and confirm the trophy appears before continuing."],"kind":"story","hidden":true,"stage":1,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":3,"name":"Paradise Lost","description":"Complete Chapter 1.","grade":"bronze","guide":"This story trophy is hidden on PlayStation, but it is unmissable if you keep playing through the named mission or chapter. Keep a manual save at each chapter start because missions cannot be replayed and there is no New Game+; leave cheats off on the trophy save. Roadmap stage 1 — Chapter 1 and the one missable.","steps":["Keep a manual save at the start of Chapter 1.","Play the story mission named in the official description.","Leave cheats off and confirm the trophy appears before continuing."],"kind":"story","hidden":true,"stage":1,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":4,"name":"T**s Ass Drug Money","description":"Complete Chapter 2.","grade":"bronze","guide":"This story trophy is hidden on PlayStation, but it is unmissable if you keep playing through the named mission or chapter. Keep a manual save at each chapter start because missions cannot be replayed and there is no New Game+; leave cheats off on the trophy save. Roadmap stage 2 — Chapters 2–4 and the story spine.","steps":["Keep a manual save at the start of Chapter 2.","Play the story mission named in the official description.","Leave cheats off and confirm the trophy appears before continuing."],"kind":"story","hidden":true,"stage":2,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":5,"name":"Vice City, Baby!","description":"Complete Chapter 3.","grade":"bronze","guide":"This story trophy is hidden on PlayStation, but it is unmissable if you keep playing through the named mission or chapter. Keep a manual save at each chapter start because missions cannot be replayed and there is no New Game+; leave cheats off on the trophy save. Roadmap stage 2 — Chapters 2–4 and the story spine.","steps":["Keep a manual save at the start of Chapter 2.","Play the story mission named in the official description.","Leave cheats off and confirm the trophy appears before continuing."],"kind":"story","hidden":true,"stage":2,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":6,"name":"Top Of The World, Ma","description":"Complete Chapter 4.","grade":"bronze","guide":"This story trophy is hidden on PlayStation, but it is unmissable if you keep playing through the named mission or chapter. Keep a manual save at each chapter start because missions cannot be replayed and there is no New Game+; leave cheats off on the trophy save. Roadmap stage 2 — Chapters 2–4 and the story spine.","steps":["Keep a manual save at the start of Chapter 2.","Play the story mission named in the official description.","Leave cheats off and confirm the trophy appears before continuing."],"kind":"story","hidden":true,"stage":2,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":7,"name":"You Gotta Know When to Get Off","description":"Complete the final mission.","grade":"gold","guide":"This story trophy is hidden on PlayStation, but it is unmissable if you keep playing through the named mission or chapter. Keep a manual save at each chapter start because missions cannot be replayed and there is no New Game+; leave cheats off on the trophy save. Roadmap stage 7 — 100% and the platinum.","steps":["Keep a manual save at the start of Chapter 7.","Play the story mission named in the official description.","Leave cheats off and confirm the trophy appears before continuing."],"kind":"story","hidden":true,"stage":7,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":8,"name":"Trust","description":"Complete Breakfast Run.","grade":"bronze","guide":"This story trophy is hidden on PlayStation, but it is unmissable if you keep playing through the named mission or chapter. Keep a manual save at each chapter start because missions cannot be replayed and there is no New Game+; leave cheats off on the trophy save. Roadmap stage 2 — Chapters 2–4 and the story spine.","steps":["Keep a manual save at the start of Chapter 2.","Play the story mission named in the official description.","Leave cheats off and confirm the trophy appears before continuing."],"kind":"story","hidden":true,"stage":2,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":9,"name":"Break the Bank","description":"Complete The Cartel Heist.","grade":"bronze","guide":"This story trophy is hidden on PlayStation, but it is unmissable if you keep playing through the named mission or chapter. Keep a manual save at each chapter start because missions cannot be replayed and there is no New Game+; leave cheats off on the trophy save. Roadmap stage 2 — Chapters 2–4 and the story spine.","steps":["Keep a manual save at the start of Chapter 2.","Play the story mission named in the official description.","Leave cheats off and confirm the trophy appears before continuing."],"kind":"story","hidden":true,"stage":2,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":10,"name":"Family Matters","description":"Complete Child's Play.","grade":"bronze","guide":"This story trophy is hidden on PlayStation, but it is unmissable if you keep playing through the named mission or chapter. Keep a manual save at each chapter start because missions cannot be replayed and there is no New Game+; leave cheats off on the trophy save. Roadmap stage 2 — Chapters 2–4 and the story spine.","steps":["Keep a manual save at the start of Chapter 2.","Play the story mission named in the official description.","Leave cheats off and confirm the trophy appears before continuing."],"kind":"story","hidden":true,"stage":2,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":11,"name":"DWNFALL","description":"Complete Headliners.","grade":"bronze","guide":"This story trophy is hidden on PlayStation, but it is unmissable if you keep playing through the named mission or chapter. Keep a manual save at each chapter start because missions cannot be replayed and there is no New Game+; leave cheats off on the trophy save. Roadmap stage 2 — Chapters 2–4 and the story spine.","steps":["Keep a manual save at the start of Chapter 2.","Play the story mission named in the official description.","Leave cheats off and confirm the trophy appears before continuing."],"kind":"story","hidden":true,"stage":2,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":12,"name":"Hi-Jacked","description":"Complete VCIA Takedown.","grade":"bronze","guide":"This story trophy is hidden on PlayStation, but it is unmissable if you keep playing through the named mission or chapter. Keep a manual save at each chapter start because missions cannot be replayed and there is no New Game+; leave cheats off on the trophy save. Roadmap stage 2 — Chapters 2–4 and the story spine.","steps":["Keep a manual save at the start of Chapter 2.","Play the story mission named in the official description.","Leave cheats off and confirm the trophy appears before continuing."],"kind":"story","hidden":true,"stage":2,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":13,"name":"Snow Storm","description":"Complete Operation Savage Glory.","grade":"bronze","guide":"This story trophy is hidden on PlayStation, but it is unmissable if you keep playing through the named mission or chapter. Keep a manual save at each chapter start because missions cannot be replayed and there is no New Game+; leave cheats off on the trophy save. Roadmap stage 2 — Chapters 2–4 and the story spine.","steps":["Keep a manual save at the start of Chapter 2.","Play the story mission named in the official description.","Leave cheats off and confirm the trophy appears before continuing."],"kind":"story","hidden":true,"stage":2,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":14,"name":"A Long Road","description":"Attain 100% Completion.","grade":"gold","guide":"Use the game’s own 100% checklist as the authority for what counts, and clear its requirements systematically rather than guessing from this trophy list. Most checklist work overlaps with the activities, exploration and collection goals here, so review what remains after those passes. Roadmap stage 7 — 100% and the platinum.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Check the in-game completion list, then claim the final trophy."],"kind":"completion","hidden":false,"stage":7,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap","PowerPyx — GTA 6 100% Completion Checklist"]},
+    {"id":15,"name":"Cunning Stunts","description":"Complete 250 Stunts.","grade":"silver","guide":"Open the matching activity and work through its distinct entries, recording progress as you go; retry individual events when needed instead of restarting the whole set. Keep a running tally toward 250 stunts; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 4 — Activities and mastery.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 250 stunts.","Verify the game registers the result, then continue the stage cleanup."],"kind":"activities","hidden":false,"stage":4,"count":250,"countLabel":"stunts","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":16,"name":"Master of None","description":"Try each type of activity once.","grade":"bronze","guide":"Open the matching activity and work through its distinct entries, recording progress as you go; retry individual events when needed instead of restarting the whole set. Keep a running tally toward 9 activity types; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 4 — Activities and mastery.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 9 activity types.","Verify the game registers the result, then continue the stage cleanup."],"kind":"activities","hidden":false,"stage":4,"count":9,"countLabel":"activity types","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":17,"name":"The Shootist","description":"Earn a gold medal in all Shooting Range challenges.","grade":"silver","guide":"Open the matching activity and work through its distinct entries, recording progress as you go; retry individual events when needed instead of restarting the whole set. Keep a running tally toward 42 Shooting Range challenges gold-medalled; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 4 — Activities and mastery.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 42 Shooting Range challenges gold-medalled.","Verify the game registers the result, then continue the stage cleanup."],"kind":"activities","hidden":false,"stage":4,"count":42,"countLabel":"Shooting Range challenges gold-medalled","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":18,"name":"Top Fun","description":"Win a Top Fun Drone Race at every location.","grade":"bronze","guide":"Open the matching activity and work through its distinct entries, recording progress as you go; retry individual events when needed instead of restarting the whole set. Keep a running tally toward 14 drone-race locations; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 4 — Activities and mastery.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 14 drone-race locations.","Verify the game registers the result, then continue the stage cleanup."],"kind":"activities","hidden":false,"stage":4,"count":14,"countLabel":"drone-race locations","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":19,"name":"Earn Cash, Not Kudos","description":"Win 20 different races.","grade":"bronze","guide":"Open the matching activity and work through its distinct entries, recording progress as you go; retry individual events when needed instead of restarting the whole set. Keep a running tally toward 20 different races won; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 4 — Activities and mastery.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 20 different races won.","Verify the game registers the result, then continue the stage cleanup."],"kind":"activities","hidden":false,"stage":4,"count":20,"countLabel":"different races won","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":20,"name":"Baited My Tackle","description":"Beat Cal in a fishing challenge.","grade":"bronze","guide":"Open the matching activity and work through its distinct entries, recording progress as you go; retry individual events when needed instead of restarting the whole set. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 4 — Activities and mastery.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Verify the game registers the result, then continue the stage cleanup."],"kind":"activities","hidden":false,"stage":4,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":21,"name":"Stick Fiddler","description":"Complete an arcade game.","grade":"bronze","guide":"Open the matching activity and work through its distinct entries, recording progress as you go; retry individual events when needed instead of restarting the whole set. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 4 — Activities and mastery.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Verify the game registers the result, then continue the stage cleanup."],"kind":"activities","hidden":false,"stage":4,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":22,"name":"Road to Rehabilitation","description":"Complete the final mission for Andy.","grade":"bronze","guide":"Stranger strands open as the story advances, and their windows may close with progress, so begin this character’s chain as soon as it appears and finish it before pushing deep into later chapters. Track the chain from its first contact; the eight completed strands also contribute to Strangers & Freaks. Roadmap stage 3 — Strangers & Freaks.","steps":["Start the character’s chain as soon as its marker appears.","Complete each mission in the chain in order.","Finish it before advancing deep into later chapters.","For Strangers & Freaks, repeat until eight strands are complete."],"kind":"side story","hidden":true,"stage":3,"count":null,"countLabel":null,"missable":"at-risk","missableNote":"Stranger chains can have story-progress windows; start this chain as soon as it appears and finish it before pushing deep into later chapters.","sources":["PlayStation trophy list via Exophase","TechWiser — GTA 6 trophy list","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":23,"name":"This Was No Boat Accident","description":"Complete the final mission for Kenton.","grade":"bronze","guide":"Stranger strands open as the story advances, and their windows may close with progress, so begin this character’s chain as soon as it appears and finish it before pushing deep into later chapters. Track the chain from its first contact; the eight completed strands also contribute to Strangers & Freaks. Roadmap stage 3 — Strangers & Freaks.","steps":["Start the character’s chain as soon as its marker appears.","Complete each mission in the chain in order.","Finish it before advancing deep into later chapters.","For Strangers & Freaks, repeat until eight strands are complete."],"kind":"side story","hidden":true,"stage":3,"count":null,"countLabel":null,"missable":"at-risk","missableNote":"Stranger chains can have story-progress windows; start this chain as soon as it appears and finish it before pushing deep into later chapters.","sources":["PlayStation trophy list via Exophase","TechWiser — GTA 6 trophy list","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":24,"name":"The Lone Rider","description":"Complete the final mission for Billy.","grade":"bronze","guide":"Stranger strands open as the story advances, and their windows may close with progress, so begin this character’s chain as soon as it appears and finish it before pushing deep into later chapters. Track the chain from its first contact; the eight completed strands also contribute to Strangers & Freaks. Roadmap stage 3 — Strangers & Freaks.","steps":["Start the character’s chain as soon as its marker appears.","Complete each mission in the chain in order.","Finish it before advancing deep into later chapters.","For Strangers & Freaks, repeat until eight strands are complete."],"kind":"side story","hidden":true,"stage":3,"count":null,"countLabel":null,"missable":"at-risk","missableNote":"Stranger chains can have story-progress windows; start this chain as soon as it appears and finish it before pushing deep into later chapters.","sources":["PlayStation trophy list via Exophase","TechWiser — GTA 6 trophy list","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":25,"name":"Strangers & Freaks","description":"Complete 8 mission strands for strangers across the state of Leonida.","grade":"silver","guide":"Stranger strands open as the story advances, and their windows may close with progress, so begin this character’s chain as soon as it appears and finish it before pushing deep into later chapters. Track the chain from its first contact; the eight completed strands also contribute to Strangers & Freaks. Roadmap stage 3 — Strangers & Freaks.","steps":["Start the character’s chain as soon as its marker appears.","Complete each mission in the chain in order.","Finish it before advancing deep into later chapters.","For Strangers & Freaks, repeat until eight strands are complete."],"kind":"side story","hidden":false,"stage":3,"count":8,"countLabel":"stranger strands","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","TechWiser — GTA 6 trophy list","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":26,"name":"Supply & Demand","description":"Complete the final mission for Randy.","grade":"bronze","guide":"Stranger strands open as the story advances, and their windows may close with progress, so begin this character’s chain as soon as it appears and finish it before pushing deep into later chapters. Track the chain from its first contact; the eight completed strands also contribute to Strangers & Freaks. Roadmap stage 3 — Strangers & Freaks.","steps":["Start the character’s chain as soon as its marker appears.","Complete each mission in the chain in order.","Finish it before advancing deep into later chapters.","For Strangers & Freaks, repeat until eight strands are complete."],"kind":"side story","hidden":true,"stage":3,"count":null,"countLabel":null,"missable":"at-risk","missableNote":"Stranger chains can have story-progress windows; start this chain as soon as it appears and finish it before pushing deep into later chapters.","sources":["PlayStation trophy list via Exophase","TechWiser — GTA 6 trophy list","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":27,"name":"Spin On This!","description":"Complete the final mission for Tyrone.","grade":"bronze","guide":"Stranger strands open as the story advances, and their windows may close with progress, so begin this character’s chain as soon as it appears and finish it before pushing deep into later chapters. Track the chain from its first contact; the eight completed strands also contribute to Strangers & Freaks. Roadmap stage 3 — Strangers & Freaks.","steps":["Start the character’s chain as soon as its marker appears.","Complete each mission in the chain in order.","Finish it before advancing deep into later chapters.","For Strangers & Freaks, repeat until eight strands are complete."],"kind":"side story","hidden":true,"stage":3,"count":null,"countLabel":null,"missable":"at-risk","missableNote":"Stranger chains can have story-progress windows; start this chain as soon as it appears and finish it before pushing deep into later chapters.","sources":["PlayStation trophy list via Exophase","TechWiser — GTA 6 trophy list","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":28,"name":"Positive Mental Attitude","description":"Meditate at every spot across Leonida.","grade":"bronze","guide":"This is the only confirmed missable: do the balcony lesson with Lucia the morning after Down to Earth, in Chapter 1, and finish all 18 spot meditations before leaving that chapter. The lesson adds one to the count but is not marked as a spot; its necessity is unconfirmed, so accept it as the safe route, then have Jason and Lucia meditate at each spot because each character counts separately. Roadmap stage 1 — Chapter 1 and the one missable.","steps":["In Chapter 1, follow Lucia to the balcony the morning after Down to Earth.","Accept the lesson and let Lucia teach you; keep this safe +1 even though it is not a marked spot.","Before Chapter 1 ends, visit all 10 meditation locations.","Meditate with Jason and Lucia at every spot to reach 18 sessions."],"kind":"collectibles","hidden":false,"stage":1,"count":18,"countLabel":"meditation spots","missable":"missable","missableNote":"Meditate at every spot before Chapter 1 ends; after that, the balcony session is gone for good.","sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap","GTA Zone"]},
+    {"id":29,"name":"Fair Game","description":"Hunt a unique animal for Bret.","grade":"bronze","guide":"Stranger strands open as the story advances, and their windows may close with progress, so begin this character’s chain as soon as it appears and finish it before pushing deep into later chapters. Track the chain from its first contact; the eight completed strands also contribute to Strangers & Freaks. Roadmap stage 3 — Strangers & Freaks.","steps":["Start the character’s chain as soon as its marker appears.","Complete each mission in the chain in order.","Finish it before advancing deep into later chapters.","For Strangers & Freaks, repeat until eight strands are complete."],"kind":"side story","hidden":false,"stage":3,"count":null,"countLabel":null,"missable":"at-risk","missableNote":"Stranger chains can have story-progress windows; start this chain as soon as it appears and finish it before pushing deep into later chapters.","sources":["PlayStation trophy list via Exophase","TechWiser — GTA 6 trophy list","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":30,"name":"Don't Touch My Deck","description":"Complete 3 Collectible Card sets.","grade":"silver","guide":"Use the in-game map and checklist to sweep one region at a time, and revisit gaps before leaving an area; where a character can repeat the action, check both. Keep a running tally toward 3 card sets; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 3 card sets.","Verify the game registers the result, then continue the stage cleanup."],"kind":"collectibles","hidden":false,"stage":6,"count":3,"countLabel":"card sets","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":31,"name":"You WAiNKer!","description":"WAiNK It at 100 locations.","grade":"silver","guide":"Use the in-game map and checklist to sweep one region at a time, and revisit gaps before leaving an area; where a character can repeat the action, check both. Keep a running tally toward 100 WAiNK locations; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 100 WAiNK locations.","Verify the game registers the result, then continue the stage cleanup."],"kind":"collectibles","hidden":false,"stage":6,"count":100,"countLabel":"WAiNK locations","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":32,"name":"One Last Thing","description":"Complete 50 Challenges.","grade":"bronze","guide":"Open the matching activity and work through its distinct entries, recording progress as you go; retry individual events when needed instead of restarting the whole set. Keep a running tally toward 50 challenges; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 4 — Activities and mastery.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 50 challenges.","Verify the game registers the result, then continue the stage cleanup."],"kind":"activities","hidden":false,"stage":4,"count":50,"countLabel":"challenges","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":33,"name":"Hot Together","description":"Lose a 4 star Wanted Level with your partner and escape the heat.","grade":"bronze","guide":"Use the trophy wording as the target, then check the game’s activity, map or character menus for the matching system; verify the result before moving on. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 5 — Crime, partners and free-roam feats.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Verify the game registers the result, then continue the stage cleanup."],"kind":"exploration & misc","hidden":false,"stage":5,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":34,"name":"Retail Therapy","description":"Rob 3 shops back-to-back with your partner without losing your Wanted Level.","grade":"bronze","guide":"Prepare an escape route before starting, then satisfy the listed conditions in one attempt; for multi-part goals, track each successful completion separately. Keep a running tally toward 3 shops in a row; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 5 — Crime, partners and free-roam feats.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 3 shops in a row.","Verify the game registers the result, then continue the stage cleanup."],"kind":"robbery","hidden":false,"stage":5,"count":3,"countLabel":"shops in a row","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":35,"name":"Whip It Good","description":"Discover 100 vehicles.","grade":"bronze","guide":"Use the in-game map and checklist to sweep one region at a time, and revisit gaps before leaving an area; where a character can repeat the action, check both. Keep a running tally toward 100 vehicles discovered; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 100 vehicles discovered.","Verify the game registers the result, then continue the stage cleanup."],"kind":"collectibles","hidden":false,"stage":6,"count":100,"countLabel":"vehicles discovered","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":36,"name":"Gunslinger","description":"Take down 5 enemies in a single use of Combat Focus.","grade":"bronze","guide":"Use the trophy wording as the target, then check the game’s activity, map or character menus for the matching system; verify the result before moving on. Keep a running tally toward 5 enemies in one Combat Focus; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 5 — Crime, partners and free-roam feats.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 5 enemies in one Combat Focus.","Verify the game registers the result, then continue the stage cleanup."],"kind":"exploration & misc","hidden":false,"stage":5,"count":5,"countLabel":"enemies in one Combat Focus","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":37,"name":"Catch Me If You Can","description":"Make an unscheduled departure at VCIA.","grade":"bronze","guide":"Use the trophy wording as the target, then check the game’s activity, map or character menus for the matching system; verify the result before moving on. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 5 — Crime, partners and free-roam feats.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Verify the game registers the result, then continue the stage cleanup."],"kind":"exploration & misc","hidden":false,"stage":5,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":38,"name":"Challenging Tank","description":"Kinda hot in these Rhinos.","grade":"bronze","guide":"The description is a joke on purpose. Its plain reading is: Kinda hot in these Rhinos. Treat that reading as a hint, not a confirmed trigger or location; try the described kind of action during free roam and record the result in game. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Read the description as a deliberate joke.","Use its plain reading as a tentative action idea, not a confirmed location.","Try the action during free roam and check the trophy notification."],"kind":"exploration & misc","hidden":false,"stage":6,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":39,"name":"Sneakthief","description":"Rob a jewelry store without being detected.","grade":"bronze","guide":"Prepare an escape route before starting, then satisfy the listed conditions in one attempt; for multi-part goals, track each successful completion separately. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 5 — Crime, partners and free-roam feats.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Verify the game registers the result, then continue the stage cleanup."],"kind":"robbery","hidden":false,"stage":5,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":40,"name":"Maximum Withdrawal","description":"Rob 5 Bank Vaults and escape.","grade":"silver","guide":"Prepare an escape route before starting, then satisfy the listed conditions in one attempt; for multi-part goals, track each successful completion separately. Keep a running tally toward 5 bank vaults; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 5 — Crime, partners and free-roam feats.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 5 bank vaults.","Verify the game registers the result, then continue the stage cleanup."],"kind":"robbery","hidden":false,"stage":5,"count":5,"countLabel":"bank vaults","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":41,"name":"A Classic Blitz Play","description":"Rob an Armored Truck and escape.","grade":"bronze","guide":"Prepare an escape route before starting, then satisfy the listed conditions in one attempt; for multi-part goals, track each successful completion separately. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 5 — Crime, partners and free-roam feats.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Verify the game registers the result, then continue the stage cleanup."],"kind":"robbery","hidden":false,"stage":5,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":42,"name":"The Goodtime State","description":"Explore all of Leonida.","grade":"bronze","guide":"Use the in-game map and checklist to sweep one region at a time, and revisit gaps before leaving an area; where a character can repeat the action, check both. Keep a running tally toward 52 areas of Leonida; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 52 areas of Leonida.","Verify the game registers the result, then continue the stage cleanup."],"kind":"collectibles","hidden":false,"stage":6,"count":52,"countLabel":"areas of Leonida","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":43,"name":"Pest Control","description":"Rob an Illegal Operation belonging to each gang.","grade":"bronze","guide":"Prepare an escape route before starting, then satisfy the listed conditions in one attempt; for multi-part goals, track each successful completion separately. Keep a running tally toward 9 gangs; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 5 — Crime, partners and free-roam feats.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 9 gangs.","Verify the game registers the result, then continue the stage cleanup."],"kind":"robbery","hidden":false,"stage":5,"count":9,"countLabel":"gangs","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":44,"name":"In The Beginning…","description":"Enjoy a cocktail with a view on Ocean Beach.","grade":"bronze","guide":"The description is a joke on purpose. Its plain reading is: Enjoy a cocktail with a view on Ocean Beach. Treat that reading as a hint, not a confirmed trigger or location; try the described kind of action during free roam and record the result in game. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Read the description as a deliberate joke.","Use its plain reading as a tentative action idea, not a confirmed location.","Try the action during free roam and check the trophy notification."],"kind":"exploration & misc","hidden":false,"stage":6,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":45,"name":"Capital Offense","description":"Smash your way out of a vehicle showroom in classic style.","grade":"bronze","guide":"The description is a joke on purpose. Its plain reading is: Smash your way out of a vehicle showroom in classic style. Treat that reading as a hint, not a confirmed trigger or location; try the described kind of action during free roam and record the result in game. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Read the description as a deliberate joke.","Use its plain reading as a tentative action idea, not a confirmed location.","Try the action during free roam and check the trophy notification."],"kind":"exploration & misc","hidden":false,"stage":6,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":46,"name":"Let’s Go Bowling","description":"Follow-through at the Kolt & Associates' bowling alley.","grade":"bronze","guide":"The description is a joke on purpose. Its plain reading is: Follow-through at the Kolt & Associates' bowling alley. Treat that reading as a hint, not a confirmed trigger or location; try the described kind of action during free roam and record the result in game. Roadmap stage 4 — Activities and mastery.","steps":["Read the description as a deliberate joke.","Use its plain reading as a tentative action idea, not a confirmed location.","Try the action during free roam and check the trophy notification."],"kind":"activities","hidden":false,"stage":4,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":47,"name":"Personal Best","description":"A partnership with mass appeal.","grade":"bronze","guide":"The description is a joke on purpose. Its plain reading is: A partnership with mass appeal. Treat that reading as a hint, not a confirmed trigger or location; try the described kind of action during free roam and record the result in game. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Read the description as a deliberate joke.","Use its plain reading as a tentative action idea, not a confirmed location.","Try the action during free roam and check the trophy notification."],"kind":"exploration & misc","hidden":false,"stage":6,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":48,"name":"Actions Speak Louder","description":"Choices made (for better or worse).","grade":"bronze","guide":"Use the trophy wording as the target, then check the game’s activity, map or character menus for the matching system; verify the result before moving on. Keep a running tally toward 500 choices (PlayStation tracks the count to 500); the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 500 choices (PlayStation tracks the count to 500).","Verify the game registers the result, then continue the stage cleanup."],"kind":"exploration & misc","hidden":false,"stage":6,"count":500,"countLabel":"choices (PlayStation tracks the count to 500)","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":49,"name":"Bad Luck, I Guess","description":"Second time's the charm.","grade":"bronze","guide":"The description is a joke on purpose. Its plain reading is: Second time's the charm. Treat that reading as a hint, not a confirmed trigger or location; try the described kind of action during free roam and record the result in game. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Read the description as a deliberate joke.","Use its plain reading as a tentative action idea, not a confirmed location.","Try the action during free roam and check the trophy notification."],"kind":"exploration & misc","hidden":false,"stage":6,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":50,"name":"The Truth Is Out There","description":"What the hell just happened?","grade":"bronze","guide":"The description is a joke on purpose. Its plain reading is: What the hell just happened? Treat that reading as a hint, not a confirmed trigger or location; try the described kind of action during free roam and record the result in game. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Read the description as a deliberate joke.","Use its plain reading as a tentative action idea, not a confirmed location.","Try the action during free roam and check the trophy notification."],"kind":"exploration & misc","hidden":false,"stage":6,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":51,"name":"Ten Pin","description":"Bowl 'em over with a melee drive-by.","grade":"bronze","guide":"Use the trophy wording as the target, then check the game’s activity, map or character menus for the matching system; verify the result before moving on. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 5 — Crime, partners and free-roam feats.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Verify the game registers the result, then continue the stage cleanup."],"kind":"exploration & misc","hidden":false,"stage":5,"count":null,"countLabel":null,"missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":52,"name":"Dime on the Dollar","description":"Earn $250,000 laundering Marked Bills through your contacts.","grade":"bronze","guide":"Use the trophy wording as the target, then check the game’s activity, map or character menus for the matching system; verify the result before moving on. Keep a running tally toward 250000 dollars of Marked Bills laundered; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 250000 dollars of Marked Bills laundered.","Verify the game registers the result, then continue the stage cleanup."],"kind":"exploration & misc","hidden":false,"stage":6,"count":250000,"countLabel":"dollars of Marked Bills laundered","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":53,"name":"Treat Yo Self","description":"Spend $100,000 across all shops.","grade":"bronze","guide":"Use the trophy wording as the target, then check the game’s activity, map or character menus for the matching system; verify the result before moving on. Keep a running tally toward 100000 dollars spent in shops; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 100000 dollars spent in shops.","Verify the game registers the result, then continue the stage cleanup."],"kind":"exploration & misc","hidden":false,"stage":6,"count":100000,"countLabel":"dollars spent in shops","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":54,"name":"Little Boxes","description":"Purchase all garage properties.","grade":"bronze","guide":"Use the trophy wording as the target, then check the game’s activity, map or character menus for the matching system; verify the result before moving on. Keep a running tally toward 8 garage properties; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 8 garage properties.","Verify the game registers the result, then continue the stage cleanup."],"kind":"exploration & misc","hidden":false,"stage":6,"count":8,"countLabel":"garage properties","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]},
+    {"id":55,"name":"On the Spot","description":"Register 10 vehicles to the Scooter Bros app.","grade":"bronze","guide":"Use the trophy wording as the target, then check the game’s activity, map or character menus for the matching system; verify the result before moving on. Keep a running tally toward 10 vehicles registered; the tracker counter here is a personal checklist, not a game sync. Leave this for its planned cleanup pass unless a warning above says to act earlier. Roadmap stage 6 — Collectibles, cash and the whole map.","steps":["Open the matching activity, map marker or character menu.","Complete the requirement in the official description.","Record each verified result until you reach 10 vehicles registered.","Verify the game registers the result, then continue the stage cleanup."],"kind":"exploration & misc","hidden":false,"stage":6,"count":10,"countLabel":"vehicles registered","missable":null,"missableNote":null,"sources":["PlayStation trophy list via Exophase","PowerPyx — GTA 6 Trophy Guide & Roadmap"]}
+  ]
 }

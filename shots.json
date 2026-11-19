@@ -1,5 +1,6 @@
 [
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
+  { "file": "1-tracker.jpg", "path": "/?seed=demo&spoiler=off&select=28", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "2-roadmap.jpg", "path": "/?seed=demo&view=roadmap", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "3-missables.jpg", "path": "/?seed=demo&view=missables", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "4-spoiler.jpg", "path": "/?seed=demo&spoiler=on&select=17", "viewport": { "width": 1280, "height": 800 } }
 ]
