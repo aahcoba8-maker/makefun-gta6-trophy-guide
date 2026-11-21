@@ -1,6 +1,0 @@
-[
-  { "file": "1-tracker.jpg", "description": "The demo tracker with spoilers hidden and trophy 28 selected.", "path": "/?seed=demo&spoiler=off&select=28", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-roadmap.jpg", "description": "The demo progress shown on the seven-stage platinum roadmap.", "path": "/?seed=demo&view=roadmap", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-missables.jpg", "description": "The missable and story-risk overview in the demo state.", "path": "/?seed=demo&view=missables", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "4-spoiler.jpg", "description": "Spoilers enabled with trophy 17 selected and its counter visible.", "path": "/?seed=demo&spoiler=on&select=17", "viewport": { "width": 1280, "height": 800 } }
-]
